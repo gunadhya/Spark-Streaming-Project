@@ -26,3 +26,6 @@
 * `spark.streaming.kafka.maxRatePerPartition`
 
   Based on the processed rows per second.
+
+referred:
+https://knowledge.udacity.com/questions/123410
